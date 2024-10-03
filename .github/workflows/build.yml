@@ -107,4 +107,4 @@ jobs:
           #Set artifact name
           name: artifact
           #From this path
-          path: target/lab2arqui-0.0.1-SNAPSHOT.jar
+          path: target/labdos-0.0.1-SNAPSHOT.jar
